@@ -79,7 +79,7 @@
 
 > ` git status `
 >
-> 1. 红色表示在工作区。
+> 1. 红色表示在工作区。git statu
 >
 > 2. 绿色表示在暂存区。
 >
@@ -121,7 +121,7 @@
 
 #### 7. 版本回退+版本穿梭+版本撤销
 
-- git reset --hard HEAD^  版本回退（回退一次提交）
+- git reset --hard HEAD^  版本回退（回退一次提交）git
 - git reset --hard Obfafd  回退到指定Obfafd的commit id版本
 - git reset HEAD         用**版本库中**的文件去替换**暂存区**的全部文件。
 - git checkout -- x.txt    用**暂存区指定文件**去替换**工作区的指定文件**（危险）
@@ -198,7 +198,7 @@ GitHub是一个基于Git的代码托管平台，Git并不像SVN那样有一个�
 
 1、**新建本地仓库 **
 
-> ​    git init
+> ​     git init
 >
 > ​     git add *
 >
@@ -296,3 +296,4 @@ GitHub是一个基于Git的代码托管平台，Git并不像SVN那样有一个�
 ![](media/04.png)
 
   
+
