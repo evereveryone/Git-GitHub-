@@ -1,4 +1,4 @@
-# Git-GitHub
+# Git-GitHub1
 入门Git&amp;GitHub笔记
 - 讲解了Git起源
 - 基本的安装和使用
